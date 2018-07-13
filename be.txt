@@ -1,0 +1,26 @@
+历史荣誉接口
+http://capipre.zhaopin.com/capi/bestemployer/getBestHistory?uticket=aff18ae5cbc4459a80e5f74eae3b10b5&platform=4&companyId=34787411
+
+点赞数据
+http://capipre.zhaopin.com/capi/bestemployer/getCompanyGive?uticket=aff18ae5cbc4459a80e5f74eae3b10b5&platform=4&companyId=34787411
+
+点赞操作
+http://capipre.zhaopin.com/capi/bestemployer/actionCompanyGive?uticket=aff18ae5cbc4459a80e5f74eae3b10b5&platform=4&companyId=34787411
+
+曝光信息
+http://capipre.zhaopin.com/capi/bestemployer/getIsExposure?uticket=04a4d479b8bd43f6afd9f833746676dd&platform=5&site=1
+
+http://capipre.zhaopin.com/capi/bestemployer/getIsExposure?uticket=D0BF1322C50926DFD3DCE4E1FC980CD0&platform=5&site=1
+
+872669BC3A9D78AE8C9D6BCEB7BCA87C
+
+打分接口
+http://capipre.zhaopin.com/capi/bestemployer/scoreBest?uticket=D0BF1322C50926DFD3DCE4E1FC980CD0&platform=5&site=1&type=1&grade=1,0,1,0,1,0&companyId=42551741&companyName=武汉光谷集成股份有限公司&companyNumber
+
+最佳雇主开关
+http://capipre.zhaopin.com/capi/garyscale/getBestGray?uticket=aff18ae5cbc4459a80e5f74eae3b10b5&platform=5&version=1.0.0
+
+
+add a line
+
+
